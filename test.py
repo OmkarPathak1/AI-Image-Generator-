@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = "50ac0edc-e4ac-40f5-9ed3-586f083f3808"
+API_KEY = "YOUR_API_KEY"
 
 HEADERS = {
     "accept": "application/json",
